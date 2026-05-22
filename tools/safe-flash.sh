@@ -37,4 +37,3 @@ run_main() {
 if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
     run_main "$@"
 fi
-
