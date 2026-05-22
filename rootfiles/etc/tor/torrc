@@ -7,6 +7,7 @@
 User tor
 Log notice syslog
 DataDirectory /ssd/tor
+DataDirectoryGroupReadable 1
 
 ControlPort 9051
 CookieAuthentication 1
